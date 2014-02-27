@@ -49,9 +49,11 @@ body {
 }
 
 article {
+    
     margin: 0;
     padding: 0 5%;
     overflow: hidden;
+    
 }
 
 header {
@@ -83,6 +85,7 @@ header {
 }
 
 p {
+    
     line-height: 1.5rem;
     margin: 0 0 1.5rem;
     
@@ -128,11 +131,13 @@ footer {
     background-color: #666633;
     overflow: hidden;
     margin: .5rem 4% .5rem
+        
 }
 
 hr {
     
     border: solid 4px #666633;
+    
 }
 
 figure {
@@ -185,9 +190,7 @@ h6 {
       
 }
 
-#list8 
-
-ul { 
+#list8 ul { 
     
     list-style: none; 
 }
